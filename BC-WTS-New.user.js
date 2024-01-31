@@ -5,7 +5,7 @@
 // @name:en             BC-WTS
 // @namespace           https://github.com/RUnknown/BC-WTS
 // @supportURL          https://github.com/RUnknown/BC-WTS/issues
-// @version             0.410
+// @version             0.412
 // @description         以文本替换方式实现喵星人大战相关网页中文化，文本基于喵星人中文资讯站的繁体翻译。
 // @description:zh-CN   以文本替换方式实现喵星人大战相关网页中文化，文本基于喵星人中文资讯站的繁体翻译。
 // @description:zh-TW   以文本替換方式實現貓咪大戰爭相關網頁中文化，文字基於貓咪大戰爭中文資訊站的繁體翻譯。
@@ -18,8 +18,8 @@
 // @license             AGPL-3.0
 // @icon                data:image/png;base64,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
 // @grant               none
-// @downloadURL         https://raw.githubusercontent.com/RUnknown/BC-WTS/blob/main/BC-WTS-New.user.js
-// @updateURL           https://raw.githubusercontent.com/RUnknown/BC-WTS/blob/main/BC-WTS-New.user.js
+// @downloadURL         https://github.com/RUnknown/BC-WTS/raw/main/BC-WTS-New.user.js
+// @updateURL           https://github.com/RUnknown/BC-WTS/raw/main/BC-WTS-New.user.js
 // ==/UserScript==
 
 (function() {
