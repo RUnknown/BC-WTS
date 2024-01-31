@@ -9,7 +9,7 @@
 // @description         以文本替换方式实现喵星人大战相关网页中文化，文本基于喵星人中文资讯站的繁体翻译。
 // @description:zh-CN   以文本替换方式实现喵星人大战相关网页中文化，文本基于喵星人中文资讯站的繁体翻译。
 // @description:zh-TW   以文本替換方式實現貓咪大戰爭相關網頁中文化，文字基於貓咪大戰爭中文資訊站的繁體翻譯。
-// @description:en      以文本替换方式实现喵星人大战相关网页中文化，文本基于喵星人中文资讯站的繁体翻译。
+// @description:en      BC-WTS
 // @author              UnTork
 // @match               *://battlecats-db.com/*
 // @match               *://*.godfat.org/*
