@@ -1,15 +1,13 @@
 // ==UserScript==
-// @name                喵星人大战网页中文化
-// @name:zh-CN          喵星人大战网页中文化
-// @name:zh-TW          貓咪大戰爭網頁中文化
-// @name:en             BC-WTS
+// @name                BC-WTS - 喵星人大战网页中文化
+// @name:zh-CN          BC-WTS - 喵星人大战网页中文化
+// @name:zh-TW          BC-WTS - 貓咪大戰爭網頁中文化
 // @namespace           https://github.com/RUnknown/BC-WTS
 // @supportURL          https://github.com/RUnknown/BC-WTS/issues
 // @version             0.412
 // @description         以文本替换方式实现喵星人大战相关网页中文化，文本基于喵星人中文资讯站的繁体翻译。
 // @description:zh-CN   以文本替换方式实现喵星人大战相关网页中文化，文本基于喵星人中文资讯站的繁体翻译。
 // @description:zh-TW   以文本替換方式實現貓咪大戰爭相關網頁中文化，文字基於貓咪大戰爭中文資訊站的繁體翻譯。
-// @description:en      Battle Cats Translation Scripts
 // @author              UnTork
 // @match               *://battlecats-db.com/*
 // @match               *://*.godfat.org/*
