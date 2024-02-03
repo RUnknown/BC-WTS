@@ -9,6 +9,12 @@
 
 ****
 
+## 其他渠道？
+
+[**\[GreasyFork\]**](https://greasyfork.org/zh-CN/scripts/486144-bc-wts-%E5%96%B5%E6%98%9F%E4%BA%BA%E5%A4%A7%E6%88%98%E7%BD%91%E9%A1%B5%E4%B8%AD%E6%96%87%E5%8C%96)  
+
+****
+
 **License**
 
 AGPL-3.0
